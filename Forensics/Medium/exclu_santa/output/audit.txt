@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed May 19 22:35:08 2021
+Invocation: foremost 3.png 
+Output directory: /data/Projects and Ideas/Hacking_CTFs/CTFLearn/Forensics/Medium/exclu_santa/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 3.png
+Start: Wed May 19 22:35:08 2021
+Length: 1 MB (1221575 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      51 KB 	          0 	  (1200 x 875)
+1:	00000102.png 	       1 MB 	      52406 	  (1280 x 720)
+Finish: Wed May 19 22:35:08 2021
+
+2 FILES EXTRACTED
+	
+png:= 2
+------------------------------------------------------------------
+
+Foremost finished at Wed May 19 22:35:08 2021
