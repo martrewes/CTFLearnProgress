@@ -7,7 +7,8 @@ The programming ones are more focused in this regard.
 
 ## Forensics
 |Challenge Name|Difficulty|Points|Link|Complete|
-|Forensics 101|Easy|30|https://ctflearn.com/challenge/96| ![img](https://img.shields.io/badge/-Yes-green) |
+|--------------|----------|------|----|--------|
+|Forensics 101|Easy|30|https://ctflearn.com/challenge/96 | ![img](https://img.shields.io/badge/-Yes-green) |
 |Taking LS|Easy|10|https://ctflearn.com/challenge/103| ![img](https://img.shields.io/badge/-Yes-green) |
 |Binwalk|Easy|30|https://ctflearn.com/challenge/108| ![img](https://img.shields.io/badge/-Yes-green) |
 |WOW.... So Meta|Easy|20|https://ctflearn.com/challenge/348| ![img](https://img.shields.io/badge/-Yes-green) |
@@ -40,5 +41,6 @@ The programming ones are more focused in this regard.
 |Mr.Bin|Medium|40|https://ctflearn.com/challenge/997| ![img](https://img.shields.io/badge/-No-red) |
 
 ## Programming
-Challenge Name|Difficulty|Points|Link|Complete|
-Simple Programming|Easy|30|https://ctflearn.com/challenge/174| ![img](https://img.shields.io/badge/-Yes-green) |
+|Challenge Name|Difficulty|Points|Link|Complete|
+|-------------|----------|------|----|--------|
+|Simple Programming|Easy|30|https://ctflearn.com/challenge/174| ![img](https://img.shields.io/badge/-Yes-green) |
