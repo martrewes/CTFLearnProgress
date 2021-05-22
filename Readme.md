@@ -57,4 +57,7 @@ The programming ones are more focused in this regard.
 |What Could This Be|Medium|60|https://ctflearn.com/challenge/268| ![img](https://img.shields.io/badge/-Yes-green) |
 |Get Into Command Mission|Hard|70|https://ctflearn.com/challenge/278Z| ![img](https://img.shields.io/badge/-Yes-green) 
 |Combo Safe Box|Hard|70|https://ctflearn.com/challenge/316| ![img](https://img.shields.io/badge/-Yes-green) 
-|Ambush Mission|Medium|60|https://ctflearn.com/challenge/274| ![img](https://img.shields.io/badge/-Yes-green) 
+|Ambush Mission|Medium|60|https://ctflearn.com/challenge/274| ![img](https://img.shields.io/badge/-Yes-green) |
+|Time Traveller|Easy|10|https://ctflearn.com/challenge/1072| ![img](https://img.shields.io/badge/-Yes-green) |
+|F1L3 M1X3R|Hard|80|https://ctflearn.com/challenge/671| ![img](https://img.shields.io/badge/-Yes-green) |
+|Rock, Paper, Scissors|Medium|40|https://ctflearn.com/challenge/855| ![img](https://img.shields.io/badge/-Yes-green) |
