@@ -52,3 +52,4 @@ The programming ones are more focused in this regard.
 |Practice Flag|Easy|10|https://ctflearn.com/challenge/125| ![img](https://img.shields.io/badge/-Yes-green) |
 |Where Can My Robot Go?|Easy|30|https://ctflearn.com/challenge/107| ![img](https://img.shields.io/badge/-Yes-green) |
 |Wikipedia|Easy|30|https://ctflearn.com/challenge/168| ![img](https://img.shields.io/badge/-Yes-green) |
+|QR Code|Easy|30|https://ctflearn.com/challenge/228| ![img](https://img.shields.io/badge/-Yes-green) |
