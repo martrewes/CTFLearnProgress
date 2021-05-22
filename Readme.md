@@ -44,3 +44,4 @@ The programming ones are more focused in this regard.
 |Challenge Name|Difficulty|Points|Link|Complete|
 |-------------|----------|------|----|--------|
 |Simple Programming|Easy|30|https://ctflearn.com/challenge/174| ![img](https://img.shields.io/badge/-Yes-green) |
+|The Credit Card Fraudster|Easy|20|https://ctflearn.com/challenge/970| ![img](https://img.shields.io/badge/-Yes-green) |
