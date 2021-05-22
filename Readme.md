@@ -55,3 +55,4 @@ The programming ones are more focused in this regard.
 |QR Code|Easy|30|https://ctflearn.com/challenge/228| ![img](https://img.shields.io/badge/-Yes-green) |
 |Help Bity|Medium|60|https://ctflearn.com/challenge/454| ![img](https://img.shields.io/badge/-Yes-green) |
 |What Could This Be|Medium|60|https://ctflearn.com/challenge/268| ![img](https://img.shields.io/badge/-Yes-green) |
+|Get Into Command Mission|Hard|70|https://ctflearn.com/challenge/278Z| ![img](https://img.shields.io/badge/-Yes-green) 
