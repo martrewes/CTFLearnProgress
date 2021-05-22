@@ -57,3 +57,4 @@ The programming ones are more focused in this regard.
 |What Could This Be|Medium|60|https://ctflearn.com/challenge/268| ![img](https://img.shields.io/badge/-Yes-green) |
 |Get Into Command Mission|Hard|70|https://ctflearn.com/challenge/278Z| ![img](https://img.shields.io/badge/-Yes-green) 
 |Combo Safe Box|Hard|70|https://ctflearn.com/challenge/316| ![img](https://img.shields.io/badge/-Yes-green) 
+|Ambush Mission|Medium|60|https://ctflearn.com/challenge/274| ![img](https://img.shields.io/badge/-Yes-green) 
