@@ -45,3 +45,10 @@ The programming ones are more focused in this regard.
 |-------------|----------|------|----|--------|
 |Simple Programming|Easy|30|https://ctflearn.com/challenge/174| ![img](https://img.shields.io/badge/-Yes-green) |
 |The Credit Card Fraudster|Easy|20|https://ctflearn.com/challenge/970| ![img](https://img.shields.io/badge/-Yes-green) |
+
+## Miscellaneous
+|Challenge Name|Difficulty|Points|Link|Complete|
+|-------------|----------|------|----|--------|
+|Practice Flag|Easy|10|https://ctflearn.com/challenge/125| ![img](https://img.shields.io/badge/-Yes-green) |
+|Where Can My Robot Go?|Easy|30|https://ctflearn.com/challenge/107| ![img](https://img.shields.io/badge/-Yes-green) |
+|Wikipedia|Easy|30|https://ctflearn.com/challenge/168| ![img](https://img.shields.io/badge/-Yes-green) |
