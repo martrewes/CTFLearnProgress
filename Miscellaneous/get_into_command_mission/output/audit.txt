@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat May 22 16:10:10 2021
+Invocation: foremost program.exe 
+Output directory: /mnt/d/Projects and Ideas/Hacking_CTFs/CTFLearn/Miscellaneous/get_into_command_mission/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: program.exe
+Start: Sat May 22 16:10:10 2021
+Length: 1 MB (1932802 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.exe 	       1 MB 	          0 	 05/29/2017 12:21:34
+Finish: Sat May 22 16:10:10 2021
+
+1 FILES EXTRACTED
+	
+exe:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat May 22 16:10:10 2021
