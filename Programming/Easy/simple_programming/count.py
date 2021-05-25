@@ -24,6 +24,7 @@ with open('data.dat', 'r') as f:
         elif (ones % 2 == 0):
             numOnes +=1
             
+            
 
 print(str(numZeros) + ' ' + str(numOnes))
 print(str(numOnes + numZeros))
