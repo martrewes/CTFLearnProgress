@@ -37,7 +37,7 @@ The programming ones are more focused in this regard.
 |abandoned place|Easy|30|https://ctflearn.com/challenge/1000| ![img](https://img.shields.io/badge/-Yes-green) |
 |Naughty Cat|Medium|50|https://ctflearn.com/challenge/890| ![img](https://img.shields.io/badge/-Yes-green) |
 |QR Inception|Hard|70|https://ctflearn.com/challenge/920| ![img](https://img.shields.io/badge/-No-red) |
-|Exclusive Santa|Medium|60|https://ctflearn.com/challenge/851| ![img](https://img.shields.io/badge/-No-red) |
+|Exclusive Santa|Medium|60|https://ctflearn.com/challenge/851| ![img](https://img.shields.io/badge/-Yes-green) |
 |Mr.Bin|Medium|40|https://ctflearn.com/challenge/997| ![img](https://img.shields.io/badge/-No-red) |
 |Bobby Toe's iPad|70|https://ctflearn.com/challenge/320| ![img](https://img.shields.io/badge/-Yes-green) |
 
