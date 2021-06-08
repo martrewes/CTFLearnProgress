@@ -39,6 +39,7 @@ The programming ones are more focused in this regard.
 |QR Inception|Hard|70|https://ctflearn.com/challenge/920| ![img](https://img.shields.io/badge/-No-red) |
 |Exclusive Santa|Medium|60|https://ctflearn.com/challenge/851| ![img](https://img.shields.io/badge/-No-red) |
 |Mr.Bin|Medium|40|https://ctflearn.com/challenge/997| ![img](https://img.shields.io/badge/-No-red) |
+|Bobby Toe's iPad|70|https://ctflearn.com/challenge/320| ![img](https://img.shields.io/badge/-Yes-green) |
 
 ## Programming
 |Challenge Name|Difficulty|Points|Link|Complete|
